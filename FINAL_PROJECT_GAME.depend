@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1430101127 source:c:\users\heatfan_\documents\programming\final_project_game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+
